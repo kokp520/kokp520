@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adi</h1>
 <h4 align="center">☛ A software engineer who thoroughly enjoys the process of typing on a keyboard and the sound it makes, along with a passion for innovation and cats. </h4>
 <h4 align="center">☛ Currently striving for continuous improvement, feel free to follow along as they consistently create ways to make life more comfortable as an engineer. </h4>
-<h4 align="center"> ☛ Hope world better :) 🦊</h4>
+<h4 align="center"> ☛ Be better :) 🦊</h4>
 <BR>
 
 

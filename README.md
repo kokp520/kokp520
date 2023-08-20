@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Adi</h1>
+<h1 align="center">Hi 👋, I'm Adi      <img width="40" src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="Alt Text"></h1>
 <h4 align="center">☛ A software engineer who thoroughly enjoys the process of typing on a keyboard and the sound it makes, along with a passion for innovation and cats. </h4>
 <h4 align="center">☛ Currently striving for continuous improvement, feel free to follow along as they consistently create ways to make life more comfortable as an engineer. </h4>
 <h4 align="center"> ☛ Be better :) 🦊</h4>
-<img width="100px" src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="Alt Text">
 <BR>
 
 - 🔭 I’m currently working on **Gamesofa** now.

@@ -7,7 +7,7 @@
 
 <h3 align="left">MY BLOG</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adi-wu-489039221/" target="blank"><img align="center" src="https://github.com/kokp520/kokp520/blob/main/adiwu_2.png?raw=true" alt="https://www.linkedin.com/in/adi-wu-489039221/" height="30" width="40" /></a>
+<a href="https://kokp520.github.io" target="blank"><img align="center" src="https://github.com/kokp520/kokp520/blob/main/adiwu_2.png?raw=true" alt="https://kokp520.github.io" height="90" width="90" /></a>
 <!-- <a href="https://www.instagram.com/adiiiiiiiiiiiiiiiiiiiiiiii_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adiiiiiiiiiiiiiiiiiiiiiiii_/" height="30" width="40" /></a> -->
     <a href="https://kokp520.github.io" target="_blank" rel="noopener"> - CLICK ME! </a>
 <BR>

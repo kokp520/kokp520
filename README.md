@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adi      <img width="40" src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="Alt Text"></h1>
 <h4 align="center">☛ A software engineer who thoroughly enjoys the process of typing on a keyboard and the sound it makes, along with a passion for innovation and cats. </h4>
 <h4 align="center">☛ Currently striving for continuous improvement, feel free to follow along as they consistently create ways to make life more comfortable as an engineer. </h4>
-<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFsdj2W9TQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-</div>
-<a href="https://kokp520.github.io" target="_blank" rel="noopener"> - adiwu98 website </a>
+
+![image](https://github.com/kokp520/kokp520/blob/main/adiwu_2.png?raw=true)
+
+
+<h3 align="left">MY BLOG</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/adi-wu-489039221/" target="blank"><img align="center" src="https://github.com/kokp520/kokp520/blob/main/adiwu_2.png?raw=true" alt="https://www.linkedin.com/in/adi-wu-489039221/" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/adiiiiiiiiiiiiiiiiiiiiiiii_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adiiiiiiiiiiiiiiiiiiiiiiii_/" height="30" width="40" /></a> -->
+    <a href="https://kokp520.github.io" target="_blank" rel="noopener"> - CLICK ME! </a>
 <BR>
-<h4 align="center"> ☛ Be better :) 🦊</h4>
+</p>
 
 - 🔭 I’m currently working on **Gamesofa** now.
 

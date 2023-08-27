@@ -2,7 +2,9 @@
 <h4 align="center">☛ A software engineer who thoroughly enjoys the process of typing on a keyboard and the sound it makes, along with a passion for innovation and cats. </h4>
 <h4 align="center">☛ Currently striving for continuous improvement, feel free to follow along as they consistently create ways to make life more comfortable as an engineer. </h4>
 
-![image](https://github.com/kokp520/kokp520/blob/main/adiwu_2.png?raw=true)
+<p align="center">
+  <img src="https://github.com/kokp520/kokp520/blob/main/adiwu_2.png?raw=true" alt="示意圖">
+</p>
 
 
 <h3 align="left">MY BLOG</h3>

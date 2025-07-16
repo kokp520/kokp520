@@ -6,6 +6,9 @@
   <img src="https://github.com/kokp520/kokp520/blob/main/adiwu_2.png?raw=true" alt="示意圖">
 </p>
 
+<a href="https://adi.tw" target="_blank" rel="noopener"> - 個人網站 Adi.tw, CLICK ME!</a>
+<p>有做留言板(fake yahoo message!) </p>
+
 
 <h3 align="left">MY BLOG</h3>
 <p align="left">

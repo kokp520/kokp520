@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Adi </h1>
-<h4 align="center">☛ A software engineer who thoroughly enjoys the process of typing on a keyboard and the sound it makes, along with a passion for innovation and cats. </h4>
-<h4 align="center">☛ Currently striving for continuous improvement, feel free to follow along as they consistently create ways to make life more comfortable as an engineer. </h4>
-
-<p align="center">
-  <img src="https://github.com/kokp520/kokp520/blob/main/adiwu_2.png?raw=true" alt="示意圖">
-</p>
 
 <a href="https://adi.tw" target="blank"><img align="center" src="https://github.com/kokp520/kokp520/blob/main/adiwu_2.png?raw=true" alt="https://kokp520.github.io" height="45" width="45" /></a>
 <BR>
@@ -13,13 +7,6 @@
 
 <a href="https://kokp520.github.io" target="_blank" rel="noopener"> - MY TECH BLOG</a>
 <BR>
-
-- 🔭 I’m currently working on **Gamesofa** now.
-- 🌱 I’m currently learning **PHP Swoole, Swift, GCP, AWS, Golang**
-- 👯 I’m looking to collaborate with **Backend Software or IOS program development**
-- 🤝 I’m looking for networking ... **Any love Sharing and practical Engineer, contact me!**
-- 📫 How to reach me **chatgptadi.1@gmail.com / Instagram**
-- ⚡ Fun fact **I dance in collage. Love cat and interior design about HOME.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
